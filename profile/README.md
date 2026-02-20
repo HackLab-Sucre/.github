@@ -10,6 +10,18 @@ El HackLab es el punto de encuentro para los que no se conforman con que las cos
 Somos un colectivo de **desarrolladores, diseñadores, músicos, artesanos y entusiastas** que creemos que el conocimiento no tiene dueño.
 
 ---
+### 🧬 Nuestra Identidad (El porqué del logo)
+Nuestro emblema no son solo puntos; es código visual:
+* **El Glider:** El símbolo de la libertad hacker del "Juego de la Vida". Como él, nos movemos y evolucionamos.
+* **Matriz 3x3:** La "H" y la "L" están codificadas en una matriz de puntos, rindiendo homenaje a lo digital.
+* **Tux Maker:** Nuestro pingüino lleva pistas de circuitos (PCB) en su ADN.
+
+```text
+      [ . ]
+      [   ] [ . ]   <-- El Glider: Símbolo de la curiosidad hacker.
+[ . ] [ . ] [ . ]
+```
+---
 
 ### 🔥 Lo que nos mueve
 * **Aprender haciendo:** Menos teoría aburrida, más terminal de comandos y soldadores calientes.
@@ -25,6 +37,16 @@ Somos un colectivo de **desarrolladores, diseñadores, músicos, artesanos y ent
 
 ---
 
+### 📊 Especificaciones del Nodo
+|Atributo|	Valor|
+|-----------|-------------------|
+|Frecuencia|	#GenteQueHaceCosas|
+|Capa Física|	Arduino, ESP32, 3D Print, Papercraft, CNC.|
+|Capa Lógica|	GNU/Linux, Python, C++, Open Source.|
+|Uptime|	Operativo en Sucre, Bolivia 🇧🇴|
+
+---
+
 ### 🤝 ¡Súmate al desorden!
 Aquí no se pide permiso, se pide ayuda. Si eres de la **#GenteQueHaceCosas** (o de la que quiere empezar a hacerlas), la puerta está abierta. 
 
@@ -36,4 +58,5 @@ Aquí no se pide permiso, se pide ayuda. Si eres de la **#GenteQueHaceCosas** (o
 **¿Quieres colaborar o solo curiosear?** ¡Pásate por el Lab! El café corre por tu cuenta, el conocimiento por la nuestra. 🚀
 
 ---
+
 *#SucreLibre #HackLabSucre #GenteQueHaceCosas*
